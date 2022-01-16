@@ -13,4 +13,5 @@ then using pipeline ii added a standard scaler and my Knn model to perform my pr
 
 <h3>My bias</h3>
 1. music in same genre are often times recommended because they share 2 or more similar features 
-2. similar genres tend to have data points that are located close to each other while similar types of songs are also clustered together.
+2. music with high danceability and enrgy often get more attention based on our dataset
+3. similar genres tend to have data points that are located close to each other while similar types of songs are also clustered together.
